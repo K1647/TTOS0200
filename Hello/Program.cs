@@ -1,6 +1,7 @@
 ﻿using System;  //Aakkosjärjestys!
 /* Eka testi ohjelma 9.1.2017 */
 //Joona's demo soft
+//Toinen muutos kommenttiin huppa hei!
 namespace Hello
 {
     class Henkilo
